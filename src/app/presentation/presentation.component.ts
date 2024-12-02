@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './presentation.component.css'
 })
 export class PresentationComponent {
-
+skills=["java","javascript","typescript","Web 2.0","flutter"]
 }
